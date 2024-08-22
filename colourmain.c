@@ -1,7 +1,7 @@
-#include <stdio.h>
-#include "ColorCode.h"
+// #include <stdio.h>
+// #include "ColorCode.h"
 
-int main() {
-    printColorCodingManual();
-    return 0;
-}
+// int main() {
+//     printColorCodingManual();
+//     return 0;
+// }
