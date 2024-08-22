@@ -29,3 +29,9 @@ The color coding needs to be printed as a reference manual for wiring personnel.
 This manual is a mapping from the color-names to the corresponding numbers.
 Add a function that would format the color coding in a form that someone can print.
 Also resolve any coding guideline violations.
+
+ColorCode.h: Common declarations.
+MajorColor.c: Handles major color functionalities.
+MinorColor.c: Handles minor color functionalities.
+ColorPair.c: Manages color pair calculations and reference manual printing.
+TestColorCode.c: Contains tests to verify each module’s functionality
